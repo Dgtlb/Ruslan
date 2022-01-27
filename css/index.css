@@ -229,5 +229,5 @@ button:hover
     .slider__item
     {
         height:500px;}}
-@media (max-width: 437px){.slider__item{height: 300px;}}
+@media (max-width: 437px){.slider__item{height: 320px;}}
 @media (max-width: 346px){body{background-size:400%,100%;}}

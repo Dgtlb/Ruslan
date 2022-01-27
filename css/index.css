@@ -230,4 +230,4 @@ button:hover
     {
         height:500px;}}
 @media (max-width: 437px){.slider__item{height: 300px;}}
-@media (max-width: 346px){body{background-size:300%,100%;}}
+@media (max-width: 346px){body{background-size:400%,100%;}}

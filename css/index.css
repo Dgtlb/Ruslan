@@ -230,8 +230,10 @@ button:hover
 {
     background:linear-gradient(200deg,rgba(0 14 255 / 100%),rgb(88 94 208 / 100%));
 }
-
-
+.demo ul li
+{
+list-style:circle;
+}
 @media (max-width:768px)
 {
     .slider__item

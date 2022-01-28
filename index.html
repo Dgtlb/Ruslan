@@ -147,7 +147,7 @@
 		const number = "77775213354";
 		function sendToWhatsapp(text, phone) {
 		  text = encodeURIComponent(text);
-		  let url = `https://web.whatsapp.com/send?phone=${phone}&text=${text}&source=&data=`;
+		  let url = `whatsapp://send?phone=77775213354&text=${text}&source=&data=`;
 		  window.open(url);
 		}
 		form.addEventListener('submit', (e) => {

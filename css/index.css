@@ -242,5 +242,5 @@ button:hover
     .slider__item
     {
         height:500px;}}
-@media (max-width: 437px){.slider__item{background-size:350%,100%;height: 300px;}}
-@media (max-width: 346px){body{background-size:400%,100%;}}
+@media (max-width: 437px){.slider__item{background-size:350%,150%;height: 300px;}}
+@media (max-width: 346px){body{background-size:400%,150%;}}
